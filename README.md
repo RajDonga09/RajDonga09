@@ -33,15 +33,17 @@ I specialize in building scalable mobile architectures, real-time systems, and b
 
 ## 🚀 Professional Highlights
 
-✅ 6+ Years of Flutter Development Experience</br>
-✅ 20+ Production Applications Delivered</br>
-✅ 5M+ Combined App Downloads</br>
-✅ Android & iOS Deployment Expert</br>
-✅ Technical Lead Experience</br>
-✅ Real-Time Chat & Live Streaming Systems</br>
-✅ Firebase & Backend Integrations</br>
-✅ Payment Gateway Integrations</br>
-✅ Agile Team Collaboration & Mentorship</br>
+| Achievement | Impact |
+|------------|---------|
+| 💼 Experience | 6+ Years in Flutter Development |
+| 🚀 Applications Delivered | 20+ Production-Ready Mobile Apps |
+| 📈 User Reach | 5M+ Combined App Downloads |
+| 📱 Mobile Platforms | Android & iOS Deployment Expert |
+| 👨‍💼 Leadership | Technical Lead Experience |
+| 💬 Real-Time Systems | Chat, WebSocket, XMPP & Live Streaming |
+| 🔥 Backend Expertise | Firebase & REST API Integrations |
+| 💳 Payments | Stripe, Razorpay, UPI & In-App Purchases |
+| 🤝 Collaboration | Agile Team Collaboration & Mentorship |
 
 ---
 
@@ -68,53 +70,6 @@ I specialize in building scalable mobile architectures, real-time systems, and b
 | ✅ Push Notifications | ✅ App Store Deployment |
 | ✅ Deep Linking | ✅ End-to-End Project Delivery |
 | ✅ Real-Time Communication | ✅ Technical Planning |
-
----
-
-## 🛠️ Technical Expertise
-
-### Mobile Development
-
-- Flutter | Dart | Native Android (Java)
-
-### State Management
-
-- Bloc / Cubit | GetX | Provider | Streams
-
-### Backend & APIs
-
-- Firebase | REST APIs | Cloud Functions | Authentication Systems
-
-### Real-Time Technologies
-
-- XMPP | WebSocket | Firebase Realtime Database
-
-### Database & Storage
-
-- SQLite | Hive | GetStorage | Firestore
-
-### Payment Systems
-
-- Stripe | Razorpay | UPI | In-App Purchases | Subscription Models
-
-### Tools & Platforms
-
-- Android Studio | Xcode | VS Code | Git & GitHub | GitLab | Bitbucket | Postman | Jira
-
----
-
-## 🔥 Core Strengths
-
-- Clean Architecture
-- Scalable Mobile Architecture
-- Performance Optimization
-- Responsive UI/UX
-- Push Notifications
-- Deep Linking
-- Real-Time Communication
-- App Store Deployment
-- Team Leadership
-- Code Reviews & Mentoring
 
 ---
 
