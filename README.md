@@ -6,8 +6,7 @@
 
 Building scalable, high-performance mobile applications for Android & iOS with Flutter.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raj-donga-1063681a7/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:dongaraj4768@gmail.com)
 
 </div>
@@ -202,11 +201,13 @@ Real-Time Social Networking Platform
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajDonga09&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajDonga09&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDonga09&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -223,11 +224,9 @@ Real-Time Social Networking Platform
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: YOUR_LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/raj-donga-1063681a7/
 
 📧 Email: dongaraj4768@gmail.com
-
-🌐 Portfolio: YOUR_WEBSITE
 
 ---
 
