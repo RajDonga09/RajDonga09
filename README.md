@@ -47,6 +47,32 @@ I specialize in building scalable mobile architectures, real-time systems, and b
 
 ## 🛠️ Technical Expertise
 
+| Category | Technologies |
+|-----------|-------------|
+| 📱 Mobile Development | Flutter, Dart, Java (Android) |
+| 🎯 State Management | Bloc, Cubit, GetX, Provider, Streams |
+| 🔗 Backend & APIs | Firebase, REST APIs, Cloud Functions, Authentication |
+| ⚡ Real-Time Technologies | XMPP, WebSocket, Firebase Realtime Database |
+| 🗄️ Database & Storage | SQLite, Hive, GetStorage, Firestore |
+| 💳 Payment Systems | Stripe, Razorpay, UPI, In-App Purchases, Subscriptions |
+| 🛠️ Tools & Platforms | Android Studio, Xcode, VS Code, Git, GitHub, GitLab, Bitbucket, Postman, Jira |
+
+## 🔥 Core Strengths
+
+| Architecture & Development | Leadership & Delivery |
+|---------------------------|-----------------------|
+| ✅ Clean Architecture | ✅ Team Leadership |
+| ✅ Scalable Mobile Architecture | ✅ Code Reviews |
+| ✅ Performance Optimization | ✅ Mentoring Developers |
+| ✅ Responsive UI/UX | ✅ Agile/Scrum Collaboration |
+| ✅ Push Notifications | ✅ App Store Deployment |
+| ✅ Deep Linking | ✅ End-to-End Project Delivery |
+| ✅ Real-Time Communication | ✅ Technical Planning |
+
+---
+
+## 🛠️ Technical Expertise
+
 ### Mobile Development
 
 - Flutter | Dart | Native Android (Java)
