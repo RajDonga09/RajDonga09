@@ -33,7 +33,7 @@ I specialize in building scalable mobile architectures, real-time systems, and b
 
 ## 💼 Professional Highlights
 
-✅ 6+ Years of Flutter Development Experience
+✅ 6+ Years of Flutter Development Experience</br>
 ✅ 20+ Production Applications Delivered
 ✅ 5M+ Combined App Downloads
 ✅ Android & iOS Deployment Expert
