@@ -34,21 +34,13 @@ I specialize in building scalable mobile architectures, real-time systems, and b
 ## 💼 Professional Highlights
 
 ✅ 6+ Years of Flutter Development Experience
-
 ✅ 20+ Production Applications Delivered
-
 ✅ 5M+ Combined App Downloads
-
 ✅ Android & iOS Deployment Expert
-
 ✅ Technical Lead Experience
-
 ✅ Real-Time Chat & Live Streaming Systems
-
 ✅ Firebase & Backend Integrations
-
 ✅ Payment Gateway Integrations
-
 ✅ Agile Team Collaboration & Mentorship
 
 ---
@@ -181,19 +173,12 @@ Real-Time Social Networking Platform
 ## 📈 What I Build
 
 ✔ Enterprise Mobile Applications
-
 ✔ Scalable Flutter Architectures
-
 ✔ Real-Time Communication Systems
-
 ✔ Live Streaming Platforms
-
 ✔ AI-Powered Applications
-
 ✔ FinTech Solutions
-
 ✔ eCommerce Platforms
-
 ✔ SaaS Products
 
 ---
@@ -203,9 +188,9 @@ Real-Time Social Networking Platform
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajDonga09&theme=tokyonight" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajDonga09&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDonga09&layout=compact&theme=tokyonight" />
 </p>
