@@ -148,27 +148,22 @@ Real-Time Social Networking Platform
 
 ## 📈 What I Build
 
-✔ Enterprise Mobile Applications
-✔ Scalable Flutter Architectures
-✔ Real-Time Communication Systems
-✔ Live Streaming Platforms
-✔ AI-Powered Applications
-✔ FinTech Solutions
-✔ eCommerce Platforms
-✔ SaaS Products
+✔ Enterprise Mobile Applications</br>
+✔ Scalable Flutter Architectures</br>
+✔ Real-Time Communication Systems</br>
+✔ Live Streaming Platforms</br>
+✔ AI-Powered Applications</br>
+✔ FinTech Solutions</br>
+✔ eCommerce Platforms</br>
+✔ SaaS Products</br>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajDonga09&theme=tokyonight" />
-</p>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajDonga09&show_icons=true&theme=tokyonight" />
-</p> -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDonga09&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajDonga09&show_icons=true&theme=tokyonight" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDonga09&layout=compact&theme=tokyonight" />
 </p>
 
 ---
