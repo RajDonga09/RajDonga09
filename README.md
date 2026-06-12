@@ -163,8 +163,11 @@ Real-Time Social Networking Platform
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajDonga09&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDonga09&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajDonga09&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajDonga09&theme=tokyonight" />
 </p>
 
 ---
