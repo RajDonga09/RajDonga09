@@ -13,7 +13,7 @@ Building scalable, high-performance mobile applications for Android & iOS with F
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 I'm a Senior Flutter Developer with 6+ years of experience designing and delivering production-grade mobile applications used by millions of users worldwide.
 
@@ -31,7 +31,7 @@ I specialize in building scalable mobile architectures, real-time systems, and b
 
 ---
 
-## 💼 Professional Highlights
+## 🚀 Professional Highlights
 
 ✅ 6+ Years of Flutter Development Experience</br>
 ✅ 20+ Production Applications Delivered</br>
