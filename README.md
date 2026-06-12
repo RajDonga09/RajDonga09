@@ -34,14 +34,14 @@ I specialize in building scalable mobile architectures, real-time systems, and b
 ## 💼 Professional Highlights
 
 ✅ 6+ Years of Flutter Development Experience</br>
-✅ 20+ Production Applications Delivered
-✅ 5M+ Combined App Downloads
-✅ Android & iOS Deployment Expert
-✅ Technical Lead Experience
-✅ Real-Time Chat & Live Streaming Systems
-✅ Firebase & Backend Integrations
-✅ Payment Gateway Integrations
-✅ Agile Team Collaboration & Mentorship
+✅ 20+ Production Applications Delivered</br>
+✅ 5M+ Combined App Downloads</br>
+✅ Android & iOS Deployment Expert</br>
+✅ Technical Lead Experience</br>
+✅ Real-Time Chat & Live Streaming Systems</br>
+✅ Firebase & Backend Integrations</br>
+✅ Payment Gateway Integrations</br>
+✅ Agile Team Collaboration & Mentorship</br>
 
 ---
 
@@ -49,55 +49,31 @@ I specialize in building scalable mobile architectures, real-time systems, and b
 
 ### Mobile Development
 
-- Flutter
-- Dart
-- Native Android (Java)
+- Flutter | Dart | Native Android (Java)
 
 ### State Management
 
-- Bloc / Cubit
-- GetX
-- Provider
-- Streams
+- Bloc / Cubit | GetX | Provider | Streams
 
 ### Backend & APIs
 
-- Firebase
-- REST APIs
-- Cloud Functions
-- Authentication Systems
+- Firebase | REST APIs | Cloud Functions | Authentication Systems
 
 ### Real-Time Technologies
 
-- XMPP
-- WebSocket
-- Firebase Realtime Database
+- XMPP | WebSocket | Firebase Realtime Database
 
 ### Database & Storage
 
-- SQLite
-- Hive
-- GetStorage
-- Firestore
+- SQLite | Hive | GetStorage | Firestore
 
 ### Payment Systems
 
-- Stripe
-- Razorpay
-- UPI
-- In-App Purchases
-- Subscription Models
+- Stripe | Razorpay | UPI | In-App Purchases | Subscription Models
 
 ### Tools & Platforms
 
-- Android Studio
-- Xcode
-- VS Code
-- Git & GitHub
-- GitLab
-- Bitbucket
-- Postman
-- Jira
+- Android Studio | Xcode | VS Code | Git & GitHub | GitLab | Bitbucket | Postman | Jira
 
 ---
 
