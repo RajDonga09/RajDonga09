@@ -153,28 +153,36 @@ Real-Time Social Networking Platform
 
 ---
 
-## 🤝 Open To
+## 🤝 Open To Opportunities
 
-- Senior Flutter Opportunities
-- Technical Lead Roles
-- Freelance Projects
+- Senior Flutter Developer Roles
+- Technical Lead Positions
+- Freelance & Contract Projects
 - Startup Collaborations
 - Mobile Architecture Consulting
 
 ---
 
-## 📫 Let’s Collaborate!
+## 📫 Let's Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/raj-donga-1063681a7/
+<p align="center">
+  <a href="mailto:dongaraj4768@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-📧 Email: dongaraj4768@gmail.com
+  <a href="https://wa.me/917567425650">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
----
+  <a href="https://www.linkedin.com/in/raj-donga-1063681a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Raj_Donga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
+  🌍 Open to Remote Opportunities • 🚀 Available for Freelance & Consulting
+</p>
 
-### "Building products that scale, perform, and create real business impact."
-
-⭐ Feel free to explore my repositories and connect with me.
-
-</div>
+<p align="center">
+  <b>🚀 Building scalable mobile applications used by millions of users worldwide.</b>
+</p>
