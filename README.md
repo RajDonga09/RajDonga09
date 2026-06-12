@@ -29,7 +29,6 @@ Over the years, I've successfully built and maintained applications across:
 
 I specialize in building scalable mobile architectures, real-time systems, and business-focused products that deliver exceptional user experiences.
 
----
 
 ## 🚀 Professional Highlights
 
@@ -45,7 +44,6 @@ I specialize in building scalable mobile architectures, real-time systems, and b
 | 💳 Payments | Stripe, Razorpay, UPI & In-App Purchases |
 | 🤝 Collaboration | Agile Team Collaboration & Mentorship |
 
----
 
 ## 🛠️ Technical Expertise
 
@@ -71,7 +69,6 @@ I specialize in building scalable mobile architectures, real-time systems, and b
 | ✅ Deep Linking | ✅ End-to-End Project Delivery |
 | ✅ Real-Time Communication | ✅ Technical Planning |
 
----
 
 ## 🌟 Featured Projects
 
