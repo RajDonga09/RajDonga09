@@ -182,7 +182,7 @@ Real-Time Social Networking Platform
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Collaborate!
 
 💼 LinkedIn: https://www.linkedin.com/in/raj-donga-1063681a7/
 
