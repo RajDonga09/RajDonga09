@@ -161,8 +161,10 @@ Real-Time Social Networking Platform
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajDonga09&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajDonga09&theme=tokyonight" />
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDonga09&layout=compact&theme=tokyonight" />
 </p>
 
